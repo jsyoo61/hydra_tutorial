@@ -1,0 +1,8 @@
+
+data_dir: some_data_dir
+
+model: RNN
+
+train:
+  lr: 1e-3
+  batch_size: 256
