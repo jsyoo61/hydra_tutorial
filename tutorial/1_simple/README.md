@@ -1,5 +1,10 @@
 # 1. simple
 
+## hydra_jupyter_sample.ipynb
+You could tinker with the `cfg` variable (`omegaconf.DictConfig` instance) and see how it works.\
+Compare the contents of `cfg` with `config/train_cfg.yaml`.
+
+## hydra_sample.py
 Recommend running the following on the shell script as a tutorial.\
 You should notice that `outputs/` directory is created when the scripts are single-run, and `multirun/` directory is created when the scripts are multi-run.\
 Also, each directory that is created contains `.hydra/` directory which has:
