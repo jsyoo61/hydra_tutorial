@@ -1,5 +1,5 @@
 # hydra_tutorial
-Personal tutorial for python library [hydra](hydra.cc).
+Personal tutorial for python library [hydra](https://hydra.cc/).
 
 Hydra is a large package which needs time to get used to. You can go to [tutorial/](tutorial/) to figure out:
 - how to use hydra
